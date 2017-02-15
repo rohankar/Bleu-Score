@@ -1,6 +1,7 @@
 # Bleu-Score
 Using NLTK Bleu Module
 http://www.nltk.org/_modules/nltk/align/bleu.html
+http://www.nltk.org/_modules/nltk/translate/bleu_score.html
 
 
 ### Alternatives to Bleu Score
